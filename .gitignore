@@ -1,0 +1,13 @@
+**/target/*
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.ids
+gradlew.bat
+.idea
+out/
+.gradle
+.DS_Store
+build/
+gradle-app.setting
+!gradle-wrapper.jar
