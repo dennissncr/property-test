@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PropertyTestApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Starting PropertyTestApplication...");
 		SpringApplication.run(PropertyTestApplication.class, args);
 	}
 
